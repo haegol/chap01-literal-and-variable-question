@@ -16,7 +16,7 @@ public class Application1 {
 		System.out.println("더하기 결과 : " + result1);
 		System.out.println("빼기 결과 : " + result2);
 		System.out.println("곱하기 결과 : " + result3);
-		System.out.println("나누기헌 몫 : " + result4);
+		System.out.println("나누기한 몫 : " + result4);
 		System.out.println("나누기한 나머지 : " + result5);
 
 		/* 정수형 변수 2개를 선언하여  각 20과 30으로 초기화 한 후
