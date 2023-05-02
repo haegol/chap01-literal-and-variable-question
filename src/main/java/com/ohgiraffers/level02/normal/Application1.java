@@ -12,8 +12,9 @@ public class Application1 {
 		 * */
 
 		char ch = 'a';
+                int answer = ch;
 		System.out.println("-- 출력 예시 --");
-		System.out.println("문자 a의 unicode : " + (int)ch);
+		System.out.println("문자 a의 unicode : " + answer);
 
 	}
 
